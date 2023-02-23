@@ -1,9 +1,10 @@
 # Challenge
-Challenge for Crossmint
+
+ *Challenge for Crossmint*
 
 --------------------------------------------------------------------------------------------
 
-#Create your own megaverse
+# Create your own megaverse
 
 ![image](https://user-images.githubusercontent.com/42863568/220920109-dc2d0faf-47b4-47aa-9ecf-61ade84fc63b.png)
 
